@@ -31,3 +31,4 @@ Máy in, webcam, loa : Các thi
 8. Hệ thống làm mát
 Người hâm mộ :
 Tản nhiệt: Gi
+
